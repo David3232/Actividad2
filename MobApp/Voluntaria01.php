@@ -18,6 +18,7 @@
     }
 echo "Modificacion para despliegue";
   }
+  echo 'Cosas raras'.'Solucion a bug'
 ?>
   </body>
 </html>
